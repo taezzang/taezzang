@@ -14,15 +14,14 @@
  
  <br />
   
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue3-4FC08D?style=flat&logo=vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=Sass&logoColor=white"/>
 
 <br />
 
 ## Learning
-
- <br />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+<br />
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taezzang&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taezzang&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
