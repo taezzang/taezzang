@@ -15,12 +15,14 @@
  <br />
   
 <img src="https://img.shields.io/badge/Vue3-4FC08D?style=flat&logo=vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinia-F0B90B?style=flat&logo=Pinia&logoColor=white"/> 
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=Sass&logoColor=white"/>
 
 <br />
 
 ## Learning 📖
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=Nuxt.js&logoColor=white"/>
  
 <br />
 <br />
