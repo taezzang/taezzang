@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Taehyun's%20github&fontSize=60&fontAlignY=40)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Taehyun's%20github&fontSize=60&fontAlignY=40) -->
 <div align=center>
 
 ## Intruduction 🙌
