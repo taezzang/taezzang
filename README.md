@@ -25,8 +25,4 @@
 <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=Nuxt.js&logoColor=white"/>
  
 <br />
-<br />
-<br />
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taezzang&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
